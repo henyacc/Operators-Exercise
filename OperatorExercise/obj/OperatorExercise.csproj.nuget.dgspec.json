@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/grace/Downloads/repos/Operators-Exercise/OperatorExercise/OperatorExercise.csproj": {}
+    "/Users/grace/Desktop/repos/OperatorsExercise/OperatorExercise/OperatorExercise.csproj": {}
   },
   "projects": {
-    "/Users/grace/Downloads/repos/Operators-Exercise/OperatorExercise/OperatorExercise.csproj": {
+    "/Users/grace/Desktop/repos/OperatorsExercise/OperatorExercise/OperatorExercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/grace/Downloads/repos/Operators-Exercise/OperatorExercise/OperatorExercise.csproj",
+        "projectUniqueName": "/Users/grace/Desktop/repos/OperatorsExercise/OperatorExercise/OperatorExercise.csproj",
         "projectName": "OperatorExercise",
-        "projectPath": "/Users/grace/Downloads/repos/Operators-Exercise/OperatorExercise/OperatorExercise.csproj",
+        "projectPath": "/Users/grace/Desktop/repos/OperatorsExercise/OperatorExercise/OperatorExercise.csproj",
         "packagesPath": "/Users/grace/.nuget/packages/",
-        "outputPath": "/Users/grace/Downloads/repos/Operators-Exercise/OperatorExercise/obj/",
+        "outputPath": "/Users/grace/Desktop/repos/OperatorsExercise/OperatorExercise/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/grace/.nuget/NuGet/NuGet.Config"
