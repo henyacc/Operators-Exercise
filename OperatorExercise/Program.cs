@@ -25,9 +25,9 @@
             int quotient = a / b;
             int remainder = a % b;
 
-            //Console.WriteLine($"{a}/{b} is {quotient} remainder {remainder}");
+            Console.WriteLine($"{a}/{b} is {quotient} remainder {remainder}");
             
-            //PrintAreaOfCircle(); 
+            PrintAreaOfCircle(); 
            
             // var is implicit type inferrence
             var i = 3;
